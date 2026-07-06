@@ -1,0 +1,4 @@
+#ifndef ROADRASH_HISTORICAL_ITEM_CASE_ALIAS_H
+#define ROADRASH_HISTORICAL_ITEM_CASE_ALIAS_H
+#include "item.h"
+#endif

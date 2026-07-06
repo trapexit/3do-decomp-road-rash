@@ -1,0 +1,89 @@
+#ifndef ROADRASH_FRONT_END_STREAM_PATHS_H
+#define ROADRASH_FRONT_END_STREAM_PATHS_H
+
+#define FRONT_END_INTRO_STREAM_PATH_SIZE 20
+#define FRONT_END_INTER_STREAM_PATH_SIZE 20
+#define FRONT_END_WIN_STREAM_PATH_SIZE 16
+#define FRONT_END_LOSE_STREAM_PATH_SIZE 20
+#define FRONT_END_BUSTED_STREAM_PATH_SIZE 24
+#define FRONT_END_START_STREAM_PATH_SIZE 20
+#define FRONT_END_WRECKED_STREAM_PATH_SIZE 24
+#define FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE 28
+
+extern const char
+  front_end_intro_stream_path[FRONT_END_INTRO_STREAM_PATH_SIZE];
+extern const char
+  front_end_inter_jessie_stream_path[FRONT_END_INTER_STREAM_PATH_SIZE];
+extern const char
+  front_end_inter_duel_stream_path[FRONT_END_INTER_STREAM_PATH_SIZE];
+
+extern const char front_end_win_1_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+extern const char front_end_win_2_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+extern const char front_end_win_3_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+extern const char front_end_win_4_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+extern const char front_end_win_5_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+extern const char front_end_win_6_stream_path[FRONT_END_WIN_STREAM_PATH_SIZE];
+
+extern const char front_end_lose_1_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_2_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_3_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_4_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_5_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_6_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_7_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_8_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char front_end_lose_9_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+extern const char
+  front_end_lose_10_stream_path[FRONT_END_LOSE_STREAM_PATH_SIZE];
+
+extern const char
+  front_end_busted_1_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+extern const char
+  front_end_busted_2_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+extern const char
+  front_end_busted_3_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+extern const char
+  front_end_busted_4_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+extern const char
+  front_end_busted_5_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+extern const char
+  front_end_busted_6_stream_path[FRONT_END_BUSTED_STREAM_PATH_SIZE];
+
+extern const char
+  front_end_start_1_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+extern const char
+  front_end_start_2_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+extern const char
+  front_end_start_3_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+extern const char
+  front_end_start_4_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+extern const char
+  front_end_start_5_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+extern const char
+  front_end_start_6_stream_path[FRONT_END_START_STREAM_PATH_SIZE];
+
+extern const char
+  front_end_wrecked_1_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+extern const char
+  front_end_wrecked_2_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+extern const char
+  front_end_wrecked_3_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+extern const char
+  front_end_wrecked_4_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+extern const char
+  front_end_wrecked_5_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+extern const char
+  front_end_wrecked_6_stream_path[FRONT_END_WRECKED_STREAM_PATH_SIZE];
+
+extern const char
+  front_end_new_level_2_stream_path[FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE];
+extern const char
+  front_end_new_level_1_stream_path[FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE];
+extern const char
+  front_end_new_level_5_stream_path[FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE];
+extern const char
+  front_end_new_level_6_stream_path[FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE];
+extern const char
+  front_end_new_level_3_stream_path[FRONT_END_NEW_LEVEL_STREAM_PATH_SIZE];
+
+#endif

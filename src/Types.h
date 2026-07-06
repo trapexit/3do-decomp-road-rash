@@ -1,0 +1,4 @@
+#ifndef ROADRASH_HISTORICAL_TYPES_CASE_ALIAS_H
+#define ROADRASH_HISTORICAL_TYPES_CASE_ALIAS_H
+#include "types.h"
+#endif
