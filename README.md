@@ -177,7 +177,7 @@ As I do not hold the copyright for the game or assets I'm not in a
 position to upload a complete ISO. However, I do have
 [xdelta3](https://github.com/jmacd/xdelta) patch files available.
 
-Find the files on the [Releases page](releases/)
+Find the files on the [Releases page](https://github.com/trapexit/3do-decomp-road-rash/releases)
 
 You will need a copy of Road Rash (USA):
 
