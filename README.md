@@ -213,11 +213,11 @@ it works the same as other 3DO Devkit projects.
 
 1. Dump your copy of Road Rash (USA) for the 3DO. The md5sum of the
    ISO should be `ebb3dee3ebcaef3fbe4fb1401347f1ed`.
-1. Download the devkit from https://github.com/trapexit/3do-devkit
-2. Download this repo
-2. Activate the devkit environment
-3. `3dt unpack --only-assets "Road Rash (USA).iso" -o takeme`
-4. Run `make`
+2. Download the devkit from https://github.com/trapexit/3do-devkit
+3. Download this repo
+4. Activate the devkit environment
+5. `3dt unpack --only-assets "Road Rash (USA).iso" -o takeme`
+6. Run `make`
 
 This will build the code, link the executable into `takeme/LaunchMe`
 and build the iso at `iso/road_rash.iso`.
@@ -238,6 +238,15 @@ any bugs please file a ticket on the
 [issues](https://github.com/trapexit/3do-decomp-road-rash/issues)
 page. Please include as much information as you can including
 screenshots, platform (real hardware or emulator), etc.
+
+
+## License
+
+This project's original contributions are licensed under the
+[GNU General Public License, version 2](LICENSE) (GPL-2.0-only).
+This license does not grant rights to the original Road Rash game or
+its assets, which remain the property of their respective copyright
+holders.
 
 
 ## References
